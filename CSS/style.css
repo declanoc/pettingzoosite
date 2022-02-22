@@ -124,6 +124,7 @@ nav ul {
 }
 nav ul li {
   float: left;
+  margin-left: 65px;
   width: 80px;
   text-align: center;
 }
@@ -196,3 +197,11 @@ footer ul li {
   display: inline;
 }
 
+.services {
+  margin-top: -150px;
+  margin-left: 250px;
+  margin-bottom: 50px;
+  font-size: 15pt;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
